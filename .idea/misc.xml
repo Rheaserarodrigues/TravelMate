@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/drawable-anydpi/back.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/drawable-anydpi/ic_exit.xml" value="0.29270833333333335" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/drawable-anydpi/ic_plus.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/drawable/backgroundshape.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/drawable/circle.xml" value="0.29270833333333335" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/drawable/circle_border.xml" value="0.29270833333333335" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/drawable/grad.xml" value="0.29270833333333335" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/layout/activity_login.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/layout/activity_main.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/layout/activity_maps.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/layout/activity_sign_up.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/layout/activity_travel_destination.xml" value="0.18" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/layout/activity_travel_destination_form.xml" value="0.33" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/layout/fragment_chats.xml" value="0.29791666666666666" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/layout/fragment_home_destination_card.xml" value="0.28802083333333334" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/layout/fragment_profile.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/layout/fragment_settings.xml" value="0.33" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/layout/fragment_travel.xml" value="0.26510416666666664" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/layout/settings_activity.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/layout/single_chat_item.xml" value="0.3625" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/menu/overflow_menu.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/reube/StudioProjects/TravelMate/app/src/main/res/xml/root_preferences.xml" value="0.24583333333333332" />
+        <entry key="..\:/project/TravelMate/app/src/main/res/layout/activity_sign_up.xml" value="0.12360688956433637" />
+        <entry key="..\:/project/TravelMate/app/src/main/res/layout/fragment_home.xml" value="0.12360688956433637" />
+        <entry key="..\:/project/TravelMate/app/src/main/res/layout/fragment_settings.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/drawable-anydpi/home.xml" value="0.22604166666666667" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_chat.xml" value="0.22604166666666667" />
+        <entry key="app/src/main/res/drawable/message_receiver_bubble.xml" value="0.275" />
+        <entry key="app/src/main/res/drawable/message_sender_bubble.xml" value="0.275" />
+        <entry key="app/src/main/res/layout/activity_chat_profile_screen.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/activity_chat_screen.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_image_sender.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_over_view_auth.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/activity_profile_picture.xml" value="0.1890625" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/activity_travel_destination.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_travel_destination_form.xml" value="0.254981884057971" />
+        <entry key="app/src/main/res/layout/fragment_chats.xml" value="0.25885416666666666" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1890625" />
+        <entry key="app/src/main/res/layout/fragment_home_destination_card.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_travel.xml" value="0.19427083333333334" />
+        <entry key="app/src/main/res/layout/layout_image_message_receiver.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/layout_image_message_sender.xml" value="0.16893115942028986" />
+        <entry key="app/src/main/res/layout/layout_message_receiver.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/layout_message_sender.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/single_chat_item.xml" value="0.25885416666666666" />
+        <entry key="app/src/main/res/layout/single_user_item.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/menu/top_app_bar_chat_screen.xml" value="0.67" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
